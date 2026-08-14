@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "startYear": "2022",
+        "endYear": "Present",
+        "title": "Laboratory Instructor",
+        "description": "Delivered weekly structured lessons to students based on a prepared curriculum.",
+        "achivements": [
+            "Successfully delivered lesson materials, enabling students to achieve final scores ranging from 80 to 100.",
+            "Successfully created all weekly instructional materials and curriculum content.",
+            "Evaluated assignments on schedule, ensuring seamless and timely grade submissions to the Lead Instructor and Laboratory staff."
+        ]
+    },
+
+    {
+        "id": 2,
+        "startYear": "2022",
+        "endYear": "Present",
+        "title": "Laboratory Assistant",
+        "description": "Assisted the Laboratory Instructor in-class by providing hands-on support to students facing difficulties, ensuring smooth and time-efficient learning.",
+        "achivements": [
+            "Provided real-time assistance to struggling students, keeping class sessions running smoothly on schedule.",
+            "Graded all weekly student assignments promptly, enabling the Laboratory Instructor to compile and submit final grades on time to the Lead Instructor."
+        ]
+    },
+
+    {
+        "id": 3,
+        "startYear": "2024",
+        "endYear": "2026",
+        "title": "Lead Laboratory Instructor",
+        "description": "Served as Lead Instructor for a practicum course, managing course delivery and compiling final student grades for official submission to laboratory staff.",
+        "achivements": [
+            "Developed the official website for the Informatics Laboratory at Gunadarma University, accessible at iflab.gunadarma.ac.id.",
+            "Authored and updated core learning modules to align with the current curriculum.",
+            "Managed daily operations and oversight as the designated Laboratory Person-in-Charge (PIC) across campus facilities.",
+            "Compiled final student grades accurately and submitted them to designated laboratory staff strictly on schedule.",
+            "Served on the committee for recruiting new Laboratory Assistants and Lead Instructors."
+        ]
+    }
+]

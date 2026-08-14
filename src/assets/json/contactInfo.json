@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "icon": "fa fa-envelope text-[#3EEA9F]",
+        "title": "Email",
+        "value": "novaadrian2@gmail.com"
+    },
+
+    {
+        "id": 2,
+        "icon": "fa fa-whatsapp text-[#3EEA9F]",
+        "title": "Whatsapp",
+        "value": "+62 813-8323-1431"
+    },
+
+    {
+        "id": 3,
+        "icon": "fa fa-map-marker text-[#3EEA9F]",
+        "title": "Location",
+        "value": "Depok, West Java, Indonesia"
+    },
+
+    {
+        "id": 4,
+        "icon": "fa fa-eye text-[#3EEA9F]",
+        "title": "Availabilty",
+        "value": "Open for new opportunities"
+    }
+]

@@ -1,0 +1,113 @@
+[
+    {
+        "id": 1,
+        "title": "Frontend",
+        "icon": "fa fa-desktop",
+        "stacks": [
+            {
+                "icon": "devicon-javascript-plain colored",
+                "title": "Javascript"
+            },
+            {
+                "icon": "devicon-react-original colored",
+                "title": "ReactJS"
+            },
+            {
+                "icon": "devicon-tailwindcss-original colored",
+                "title": "Tailwind CSS"
+            },
+            {
+                "icon": "devicon-bootstrap-plain colored",
+                "title": "Bootstrap"
+            },
+            {
+                "icon": "devicon-html5-plain colored",
+                "title": "HTML5"
+            },
+            {
+                "icon": "devicon-css3-plain colored",
+                "title": "CSS3"
+            }
+        ]
+    },
+
+    {
+        "id": 2,
+        "title": "Backend",
+        "icon": "fa fa-server",
+        "stacks": [
+            {
+                "icon": "devicon-laravel-original colored",
+                "title": "Laravel"
+            },
+            {
+                "icon": "devicon-codeigniter-plain colored",
+                "title": "Codeigniter"
+            },
+            {
+                "icon": "devicon-php-plain colored",
+                "title": "PHP"
+            },
+            {
+                "icon": "devicon-python-plain colored",
+                "title": "Python"
+            },
+            {
+                "icon": "devicon-flask-original",
+                "title": "Flask"
+            }
+        ]
+    },
+
+    {
+        "id": 3,
+        "title": "Database",
+        "icon": "fa fa-database",
+        "stacks": [
+            {
+                "icon": "devicon-postgresql-plain colored",
+                "title": "PostgreSQL"
+            },
+            {
+                "icon": "devicon-mysql-original",
+                "title": "MySQL"
+            }
+        ]
+    },
+
+    {
+        "id": 4,
+        "title": "Tools & Others",
+        "icon": "fa fa-cubes",
+        "stacks": [
+            {
+                "icon": "devicon-vscode-plain colored",
+                "title": "VS Code"
+            },
+            {
+                "icon": "devicon-git-plain colored",
+                "title": "Git"
+            },
+            {
+                "icon": "devicon-github-original colored",
+                "title": "GitHub"
+            },
+            {
+                "icon": "devicon-figma-plain colored",
+                "title": "Figma"
+            },
+            {
+                "icon": "devicon-postman-plain colored",
+                "title": "Postman"
+            },
+            {
+                "icon": "devicon-unity-plain colored",
+                "title": "Unity"
+            },
+            {
+                "icon": "devicon-blender-original colored",
+                "title": "Blender 3D"
+            }
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "icon": "/img/bnsp.png",
+        "title": "Programmer",
+        "issuer": "BNSP",
+        "link": "https://drive.google.com/file/d/1SkrsgLRvHCpmReQWU1_oWnhgB9CyUqCZ/view"
+    },
+
+    {
+        "id": 2,
+        "icon": "/img/gunadarma.jpg",
+        "title": "Basic Web Application Design",
+        "issuer": "Gunadarma University",
+        "link": "https://drive.google.com/file/d/1uXnrRASHk8dw2s7KOXasIDnu3jpnN38R/view"
+    },
+
+    {
+        "id": 3,
+        "icon": "/img/gunadarma.jpg",
+        "title": "Object-Oriented Software Development 2",
+        "issuer": "Gunadarma University",
+        "link": "https://drive.google.com/file/d/1mkq6iCbxLRRBceA08q238fg5zYiSG8sb/view"
+    },
+
+    {
+        "id": 4,
+        "icon": "/img/gunadarma.jpg",
+        "title": "Building Website Using HTML 5",
+        "issuer": "Gunadarma University",
+        "link": "https://drive.google.com/file/d/1uRRnWUf_dus6shBj3h86aswCYebKyAfB/view"
+    }
+]

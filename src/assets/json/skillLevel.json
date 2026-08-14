@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "Javascript",
+        "value": 70
+    },
+
+    {
+        "id": 2,
+        "title": "PHP/Laravel",
+        "value": 85
+    },
+
+    {
+        "id": 3,
+        "title": "Codeigniter",
+        "value": 85
+    },
+
+    {
+        "id": 4,
+        "title": "ReactJS",
+        "value": 75
+    },
+
+    {
+        "id": 5,
+        "title": "Database Design",
+        "value": 80
+    },
+
+    {
+        "id": 6,
+        "title": "UI/UX & Design Tools",
+        "value": 78
+    }
+]

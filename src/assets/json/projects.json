@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "thumbnail": "/img/iflab.png",
+        "title": "Informatics Laboratory Website",
+        "description": "A web platform for Gunadarma University’s Informatics Lab providing real-time schedules, news, assistant recruitment, and competition entry management.",
+        "link": "https://iflab.gunadarma.ac.id",
+        "stacks": [
+            {
+                "icon": "devicon-codeigniter-plain colored",
+                "title": "CodeIgniter"
+            },
+            {
+                "icon": "devicon-bootstrap-plain colored",
+                "title": "Bootstrap"
+            },
+            {
+                "icon": "devicon-mysql-original",
+                "title": "MySQL"
+            }
+        ]
+    },
+
+    {
+        "id": 2,
+        "title": "My Money",
+        "thumbnail": "/img/mymoney.png",
+        "description": "An admin side financial management portal for 'My Money' that allows registered users to record income and expenses for effortless budget tracking.",
+        "link": "http://mymoney.biz.id",
+        "stacks": [
+            {
+                "icon": "devicon-laravel-original colored",
+                "title": "Laravel"
+            },
+            {
+                "icon": "devicon-tailwindcss-original colored",
+                "title": "Tailwind CSS"
+            },
+            {
+                "icon": "devicon-mysql-original",
+                "title": "MySQL"
+            }
+        ]
+    },
+
+    {
+        "id": 3,
+        "title": "Nutri Buah",
+        "thumbnail": "/img/nutribuah.png",
+        "description": "A Computer Vision web application using CNN models to detect fruits, estimate their weight, and provide detailed nutritional analysis.",
+        "link": "https://nutribuah.id",
+        "stacks": [
+            {
+                "icon": "si si-ultralytics",
+                "title": "YOLO"
+            },
+            {
+                "icon": "devicon-python-plain colored",
+                "title": "Python"
+            },
+            {
+                "icon": "devicon-flask-original",
+                "title": "Flask"
+            },
+            {
+                "icon": "devicon-tailwindcss-original colored",
+                "title": "Tailwind CSS"
+            }
+        ]
+    }
+]
